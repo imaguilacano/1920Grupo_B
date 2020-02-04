@@ -6,8 +6,4 @@
 
 - [ ] Ejercicio 3 -- Alumno 2
 
-- [ ] Ejercicio 4 --  Alumno 2
 
-- [ ] Ejercicio 5 --  Alumno 2
-
-- [ ] Ejercicio 6 -- Alumno 2
