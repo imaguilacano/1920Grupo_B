@@ -30,6 +30,6 @@ int main(){
       printf("\nMasa: %.2f Kg", masa);
       printf("\n\nDesea efectuar una nueva operacion (s/n)? ");
       c=toupper(getch());
-    }while (c!='N');
+    } while (c!='N');
 return 0;
 }
