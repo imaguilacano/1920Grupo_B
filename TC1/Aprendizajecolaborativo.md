@@ -7,7 +7,7 @@ Los 5 ingredientes del aprendizaje cooperativo:
 
   Las tareas están estructuradas de manera que los estudiantes se necesitan entre sí para completarlas
 
-“O nos salvamos todos o nos hundimos juntos”
+  “O nos salvamos todos o nos hundimos juntos”
 
 - Responsabilidad individual
    
