@@ -4,19 +4,34 @@ Es una forma de trabajo en grupo basado en la construcción colectiva del conoci
 Los 5 ingredientes del aprendizaje cooperativo:
 
 - Interdependencia positiva	
+
   Las tareas están estructuradas de manera que los estudiantes se necesitan entre sí para completarlas
-  “O nos salvamos todos o nos hundimos juntos”
+
+“O nos salvamos todos o nos hundimos juntos”
+
 - Responsabilidad individual
-  Cada estudiante debe ser responsable de su trabajo y del resto de sus compañeros
+   
+   Cada estudiante debe ser responsable de su trabajo y del resto de sus compañeros
+   
   ¡No vale descansar en el trabajo de otros!
+  
 - Interacción cara a cara	
+  
   Para que los miembros promuevan las explicaciones y discusiones
+  
   “Cuando enseñas aprendes dos veces”
+  
 - Habilidades interpersonales y de grupo
+  
   Conocer y confiar en el otro, comunicarse acertadamente, resolver conflictos constructivamente
+  
   “Pagaré más por la capacidad de tratar con la gente que por cualquier otra habilidad que exista”
+  
 - Reflexión del grupo	
+
   ¿Qué fue útil? ¿Qué se puede mejorar?
+
+
 
 Había una vez...
 
