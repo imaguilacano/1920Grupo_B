@@ -1,5 +1,7 @@
 # Estado de los ejercicios
 
+- [X] Ejemplo 1 -- calculoMasaBolaHierro
+
 - [ ] Ejercicio 1 -- Aceleración normal -- Alumno 1
 
 - [ ] Ejercicio 2 -- Grados centigrados -- Alumno 2
